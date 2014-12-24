@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldPython.Wrapper.Tietuku", "GoldPython.Wrapper.Tietuku.csproj", "{FCA238D6-D4ED-49D5-8464-5628E9E3A2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA238D6-D4ED-49D5-8464-5628E9E3A2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA238D6-D4ED-49D5-8464-5628E9E3A2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA238D6-D4ED-49D5-8464-5628E9E3A2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA238D6-D4ED-49D5-8464-5628E9E3A2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
