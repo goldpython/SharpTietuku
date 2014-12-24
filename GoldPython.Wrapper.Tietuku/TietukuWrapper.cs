@@ -1,4 +1,10 @@
-﻿using System.Linq;
+﻿//-----------------------------------------------------------------------
+// Project - https://github.com/goldpython/SharpTietuku/
+// Copyright (C) 2014 goldpython@qq.com. All rights reserved.
+//-----------------------------------------------------------------------
+
+
+using System.Linq;
 using System.Net;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
